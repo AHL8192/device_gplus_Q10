@@ -98,5 +98,5 @@ TW_USE_TOOLBOX := true
 
 # Crypto and Decryption
 # BOARD_USES_METADATA_PARTITION := true
-TW_INCLUDE_CRYPTO := false
+# TW_INCLUDE_CRYPTO := false
 # TW_CRYPTO_USE_SYSTEM_VOLD := true
